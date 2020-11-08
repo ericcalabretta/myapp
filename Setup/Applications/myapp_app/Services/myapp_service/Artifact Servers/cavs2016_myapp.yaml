@@ -1,0 +1,4 @@
+harnessApiVersion: '1.0'
+type: DOCKER
+imageName: cavs2016/myapp
+serverName: myapp_registry
