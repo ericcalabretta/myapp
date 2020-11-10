@@ -2,6 +2,9 @@ harnessApiVersion: '1.0'
 type: SERVICE
 artifactType: DOCKER
 configVariables:
+- name: NonProdNamespace
+  value: non-prod
+  valueType: TEXT
 - name: ProdNamespace
   value: prod
   valueType: TEXT
