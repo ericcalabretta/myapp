@@ -5,9 +5,6 @@ configVariables:
 - name: NonProdNamespace
   value: non-prod
   valueType: TEXT
-- name: ProdNamespace
-  value: prod
-  valueType: TEXT
 deploymentType: KUBERNETES
 description: myapp
 helmVersion: V2
